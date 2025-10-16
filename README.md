@@ -5,6 +5,7 @@
 Então, aqui vai uma breve introdução sobre nós:
 ---
 # Sobre Nós
+---
 Somos uma Loja Brasileira, mas que não tem localização, fazemos produtos diversos. Mas a maioria dos nossos produtos são anunciadas no nosso **Discord** e **WhatsApp.**
---
-## Another shop in the world
+---
+## Another shop in the world :3
